@@ -1,0 +1,27 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moralis": "^2.23.1",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.6",
+    "telegraf": "^4.12.2",
+    "util": "^0.12.5",
+    "web3": "^4.1.2"
+  }
+}
